@@ -1,0 +1,15 @@
+ACME Inc.           Uso do espaco em disco pelos usuarios
+--------------------------------------------------------------
+Nr.  Usuario        Espaco utilizado     % do uso
+1    1 - Estrutura sequencial  0.01 MB 2.96%
+2    2 - Estrutura de decisão  0.01 MB 4.83%
+3    3 - Estrutura de repetição  0.01 MB 6.61%
+4    4 - Listas  0.01 MB 7.82%
+5    5 - Funções  0.01 MB 8.32%
+6    6 - Strings  0.02 MB 13.71%
+7    7 - Arquivos  0.03 MB 15.87%
+8    8 - Classes  0.03 MB 18.34%
+9    9 - ListaDeExerciciosProjetos  0.04 MB 21.53%
+
+Espaco total ocupado: 0.17 MB
+Espaco medio ocupado: 0.02 MB
