@@ -4,6 +4,7 @@ Imite o funcionamento do programa básico, mas ao invés de exigis que o usuári
 Cada opção do menu deveria permitir que o usuário executasse uma ação para todos os bichinhos 
 (alimentar todos os bichinhos, brincar com todos os bichinhos, ou ouvir a todos os bichinhos). 
 Para tornar o programa mais interessante, dê para cada bichinho um nivel inicial aleatório de fome e tédio.
+
 """
 
 import random
