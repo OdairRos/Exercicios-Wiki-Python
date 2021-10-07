@@ -48,5 +48,5 @@ Tabela de conteúdos
 
 <p><br>
 	Lista de exercicios criada por: <a href="https://wiki.python.org.br/MarcoAndr%C3%A9LopesMendes/MarcoAndr%C3%A9LopesMendes">MarcoAndréLopesMendes</a><br>
-	Exercicios desenvolvidos por: 🎯Odair J. Rosario🎯
+	Solução dos exercicios desenvolvidos por: 🎯Odair J. Rosario🎯
 </p>
